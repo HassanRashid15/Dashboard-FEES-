@@ -1,0 +1,24 @@
+{
+    "fees_Detail":[
+    {
+    "srno": "1",    
+    "date": "20/03/2023",
+    "st_id": "09576",    
+    "name": "hassan",
+    "c_id": "351",
+    "c_name": "Web Development",
+    "T_Fees": "30,000",
+    "Fees_Status": "Pending"
+    },
+    {
+        "srno": "2",    
+        "date": "20/03/2023",
+        "st_id": "09545",    
+        "name": "saira",
+        "c_id": "352",
+        "c_name": "Web Development",
+        "T_Fees": "30,000",
+        "Fees_Status": "Paid"
+        }
+    
+    ]}
